@@ -1,8 +1,8 @@
 📊 Unemployment Rate Analysis Project
 📌 Overview
 
-This project analyzes unemployment rate data over time to understand trends, regional differences, and the impact of major economic events such as the Covid-19 pandemic.
-The goal is to extract meaningful insights that can support economic and policy decision-making.
+- This project analyzes unemployment rate data over time to understand trends, regional differences, and the impact of major economic events such as the Covid-19 pandemic.
+- The goal is to extract meaningful insights that can support economic and policy decision-making.
 
 🎯 Objectives
 - Analyze unemployment trends over time
